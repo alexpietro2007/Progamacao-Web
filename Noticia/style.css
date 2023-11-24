@@ -1,0 +1,66 @@
+html{
+    height: 100vh;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+
+.navbar.navbar-light{
+    justify-content: center;
+    background-color: #050f24; 
+}
+
+.container-fluid{
+    height: auto;
+    justify-content: center;
+}
+
+
+.carousel-item.active{
+    display: flex !important;
+    justify-content: center;
+}
+
+.sr-only{
+    color: black;
+}
+
+span.carousel-control-next{
+    color: black;
+}
+
+.next{
+    color: black;
+    size: 3rem;
+}
+
+.prev{
+    color: black;
+}
+
+.container_umbanda{
+    margin-top: 30px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    margin-bottom: 40px;
+}
+
+.container_info{
+    width: auto;
+    height: 400px;
+    display: grid;
+    grid-template-columns: auto 200px;
+}
+
+.card{
+    margin-right: 40px;
+}
+
+.text_notTexture{
+    text-decoration: none;
+    color: black;
+}
