@@ -1,0 +1,13 @@
+    @media (max-width: 400px){
+        .box1{
+            grid-template: "detalhes";
+            height: auto;
+        }
+        .cabecario{
+            justify-content: center ;
+        }
+        .body{
+            background-position-y: 100%;
+            background-image: url("../img/backgroundMedia.png");
+        }
+    }

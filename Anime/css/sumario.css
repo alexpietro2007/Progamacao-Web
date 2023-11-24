@@ -1,0 +1,79 @@
+@font-face {
+    font-family: sed;
+    src: url(../fontes/SedgwickAveDisplay-Regular.ttf);
+  }
+
+@font-face {
+    font-family: comfortaa;
+    src: url(../fontes/Comfortaa-VariableFont_wght.ttf);
+}
+
+.return{
+    width: 100%;
+    text-align: right;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    height: 100vh;
+}
+
+.box1{
+    margin: 30px;
+    height: 300px;
+    width: auto;
+    display: flex;
+}
+
+.img{
+    height: 250px;
+    border: solid white 2px;
+}
+
+.informacoes{
+    margin: 30px;
+    margin-top: 0px;
+    height: 300px;  
+    font-size: 20px;
+    color:rgba(205, 205, 3, 0.884);
+    font-family: comfortaa;
+}
+
+.informacoes > p{
+    padding-top: 10px;
+}
+
+.ep{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    justify-content: space-around;
+    justify-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+    height: auto;
+    width: auto;
+    text-align: center;
+    line-height: 5rem;
+    font-family: comfortaa;
+}
+
+.episodios{
+    color: rgb(2, 2, 163);
+    text-decoration: none;
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px;
+    font-family: none;
+    margin: 20px;
+}
+
+.titulo{
+    color: rgba(223, 223, 0, 0.868);
+    font-size: 35px;
+    width: auto;
+    text-align: center;
+    font-family: sed;
+}

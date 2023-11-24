@@ -1,0 +1,22 @@
+@media (max-width: 650px){
+    .box1{
+        display: grid; 
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+        grid-template: "img";
+    }
+
+    .img{
+        margin-bottom: 30px;
+    }
+
+    .informacoes{
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .ep{
+        font-size: 15px;
+    }
+}
