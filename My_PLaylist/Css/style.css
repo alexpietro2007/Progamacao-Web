@@ -1,0 +1,76 @@
+@font-face {
+  font-family: lobster;
+  src: url(../Fonte/Lobster-Regular.ttf);
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+background-image: url(../Imagens/Fundo/210105.jpg);
+background-repeat: no-repeat;
+background-size: cover  ;
+background-position: center;
+min-height: 100vh;
+margin: 0;
+}
+
+
+.cabecario{
+  display: flex;
+
+  background-color: #1d1e20;
+  color: white;
+  height: 3rem;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.logo{
+  padding-left: 35px;
+  font-family: lobster;
+  font-size: 2rem;
+}
+
+.container{
+  display: flex;
+  height: auto;
+}
+
+.nav{
+  background-color: #252525;
+}
+
+.img{
+  width: 120px;
+  height: auto;
+  display: block;
+  padding: 10px;
+}
+
+.icon{
+font-size: 1.5rem;
+justify-content: center;
+padding-left: 20px;
+padding-top: 6px;
+}
+
+.box1{
+  display: block;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+  line-height: 100px;
+}
+
+.title, .subtitle{
+  font-family: lobster;
+}
+
+.title{
+  border-bottom: black solid 3px;
+}
