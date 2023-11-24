@@ -1,0 +1,29 @@
+div#musica8{
+    background-color: black;
+    text-align: center;
+}
+
+div#FundoLetra8{
+    position: absolute;
+    background-color: Silver;
+}
+
+div#titulo8{
+    -webkit-text-fill-color: #DC143C;
+}
+
+div#autor8{
+    -webkit-text-fill-color: #A52A2A;
+}
+
+#TsukitoHoshizora1{
+    position: absolute;
+    left: 40%;
+    top: 90%;
+}
+
+#TsukitoHoshizora2{
+    position: absolute;
+    left: 40%;
+    top: 170%;
+}

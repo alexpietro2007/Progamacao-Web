@@ -1,0 +1,29 @@
+div#musica7{
+    text-align: center;
+    background-color: black;
+}
+
+div#FundoLetra7{
+    position: absolute;
+    background-color: #ADD8E6;
+}
+
+div#titulo7{
+    -webkit-text-fill-color: #DAA520;
+}
+
+div#autor7{
+    -webkit-text-fill-color: #C71585;
+}
+
+#MyOrdynaryLive1{
+    position: absolute;
+    left: 41%;
+    top: 110%;
+}
+
+#MyOrdynaryLive2{
+    position: absolute;
+    left: 41%;
+    top: 350%;
+}

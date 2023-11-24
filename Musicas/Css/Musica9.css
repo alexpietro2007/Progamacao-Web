@@ -1,0 +1,31 @@
+div#musica9{
+    background-color: black;
+    text-align: center;
+}
+
+div#titulo9{
+    -webkit-text-fill-color: #B22222;
+    background-color: black;
+    position: absolute;
+    border-radius: 20px;
+}
+
+div#autor9{
+    -webkit-text-fill-color: #4169E1;
+    background-color: black;
+    position: absolute;
+    border-radius: 20px;
+    top: 100%;
+}
+
+#BadTrio1{
+    position: absolute;
+    left: 70%;
+    top: 84%;
+}
+
+#BadTrio2{
+    position: absolute;
+    left: 40%;
+    top: 85%;
+}

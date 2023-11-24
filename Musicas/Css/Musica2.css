@@ -1,0 +1,49 @@
+div#musica2{
+    text-align: center;
+    background-color: #101010;
+}
+
+div#fundoLetra2{
+    background-color: #101010;
+    position: absolute;
+}
+
+div#LetraM2{
+    -webkit-text-fill-color: aliceblue;
+}
+
+div#freddy{
+    -webkit-text-fill-color: #8B4513;
+}
+
+div#chica{
+    -webkit-text-fill-color: #FFFF00;
+}
+
+div#bonnie{
+    -webkit-text-fill-color: #00008B;
+}
+
+div#foxy{
+    -webkit-text-fill-color: #A52A2A;
+}
+
+#Staycalm1{
+    position: absolute;
+    left: 60%;
+    top: 100%;
+}
+
+#Staycalm2{
+    position: absolute;
+    left: 53%;
+    top: 200%;
+}
+
+div#tituloM2{
+    -webkit-text-fill-color: #A020F0;
+}
+
+div#autorM2{
+    -webkit-text-fill-color: #EE82EE;
+}

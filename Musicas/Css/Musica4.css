@@ -1,0 +1,24 @@
+div#musica4{
+    text-align: center;
+    background-color: #101010;
+}
+
+#Asgore1{
+    position: absolute;
+    left: 30%;
+    top: 90%
+}
+
+#Asgore2{
+    position: absolute;
+    left: 60%;
+    top: 90%;
+}
+
+div#titulo3{
+    -webkit-text-fill-color: #FFB6C1;
+}
+
+div#autor3{
+    -webkit-text-fill-color: #87CEEB;
+}

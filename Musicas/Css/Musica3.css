@@ -1,0 +1,38 @@
+div#musica3{
+    background-color: black;
+    text-align: center;
+}
+
+div#FundoLetra3{
+    background-color: #F5DEB3;
+    position: absolute;
+}
+
+div#autor3{
+    -webkit-text-fill-color: #F4A460;
+}
+
+div#titulo3{
+    -webkit-text-fill-color: #CD853F;
+    background-color: DimGray;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#Monster1{
+    position: absolute;
+    left: 52%;
+    top: 105%;
+}
+
+#Monster2{
+    position: absolute;
+    left: 60%;
+    top: 170%;
+}
+
+#Monster3{
+    position: absolute;
+    left: 52%;
+    top: 230%;
+}

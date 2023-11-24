@@ -1,0 +1,33 @@
+#musica6{
+    text-align: center;
+    background-color: black;
+}
+
+div#FundoLetra6{
+    background-color: #B0E0E6;
+    position: absolute;
+}
+
+div#letraM6{
+    -webkit-text-fill-color: #6495ED;
+}
+
+div#autor6{
+    -webkit-text-fill-color: #FFFF00;
+}
+
+div#titulo6{
+    -webkit-text-fill-color: #DC143C;
+}
+
+#DBgt1{
+    position: absolute;
+    left: 43%;
+    top: 90%;
+}
+
+#DBgt2{
+    position: absolute;
+    left: 43%;
+    top: 170%;
+}

@@ -1,0 +1,32 @@
+
+div#musica1{
+    background-color: black;
+    text-align: center;
+}
+div#titulo{
+    text-align: left;
+    -webkit-text-fill-color: #FFB6C1;
+}
+div#autor{
+    -webkit-text-fill-color: #F08080;
+}
+div#letraM1{
+    -webkit-text-fill-color: gray;
+}
+div#FundoLetra{
+    background-color: black;
+    position: absolute;
+}
+
+#NeverAlone1{
+    position: absolute;
+    left: 48%;
+    top: 100%;
+}
+
+#NeverAlone2{
+    position: absolute;
+    left: 46%;
+    top: 200%;
+}
+

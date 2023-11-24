@@ -1,0 +1,33 @@
+div#musica5{
+    text-align: center;
+    background-color: black;
+}
+
+div#FundoLetra5{
+    position: absolute;
+    background-color: #363636;
+}
+
+div#letraM5{
+    -webkit-text-fill-color: aliceblue;
+}
+
+div#autor5{
+-webkit-text-fill-color: #FFDEAD;
+}
+
+div#titulo5{
+-webkit-text-fill-color: #B8860B;
+}
+
+#More1{
+    position: absolute;
+    left: 45%;
+    top: 120%;
+}
+
+#More2{
+    position: absolute;
+    left: 45%;
+    top: 250%;
+}

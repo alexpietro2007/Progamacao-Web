@@ -1,0 +1,33 @@
+div#musica10{
+    background-color: black;
+    text-align: center;
+}
+
+div#FundoLetra10{
+    background-color: #8B0000;
+    position: absolute;
+}
+
+div#letraM10{
+    -webkit-text-fill-color: #FFDAB9;
+}
+
+div#titulo10{
+    -webkit-text-fill-color: #FA8072;
+}
+
+div#autor10{
+    -webkit-text-fill-color: #FFC0CB;
+}
+
+#LoveShot1{
+    position: absolute;
+    left: 42%;
+    top: 100%;
+}
+
+#LoveShot2{
+    position: absolute;
+    left: 34%;
+    top: 400%;
+}
