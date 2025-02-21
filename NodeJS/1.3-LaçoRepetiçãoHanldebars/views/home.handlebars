@@ -1,0 +1,9 @@
+<h1>Ola Handlebars</h1>
+<b></b>
+<p>o primeiro nome do usuario é: {{user.firstName}}</p>
+<p>o ultimo nome do usuario é: {{user.lastName}}</p>
+{{#if autentificator}}
+    <p>Você esta logado, <a href="/dashboard">clique aqui</a> Para acessar o dashboard</p>
+{{else}}
+    <p>Você não esta logado, não tem acessoa a area do sitema</p>
+{{/if}}
